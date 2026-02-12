@@ -1,7 +1,9 @@
 import { motion } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 import FallingHearts from "@/components/FallingHearts";
 
 const Index = () => {
+  const navigate = useNavigate();
   return (
     <div className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-background px-4">
       <FallingHearts />
@@ -82,7 +84,7 @@ const Index = () => {
           className="flex gap-4 mt-6"
         >
           <button
-            onClick={() => alert("¡Te amo mucho, Mariela! ❤️")}
+            onClick={() => navigate("/love-letter")}
             className="px-8 py-3 rounded-full bg-primary text-primary-foreground font-heading text-lg tracking-wide hover:scale-105 transition-transform shadow-[0_0_30px_hsl(350,80%,55%,0.4)]"
           >
             ¡Sí, acepto! 💕
