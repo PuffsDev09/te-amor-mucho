@@ -36,7 +36,7 @@ const LoveLetter = () => {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2, delay: 0.8 }}
-          className="font-heading text-base sm:text-lg md:text-xl text-foreground/90 leading-relaxed sm:leading-loose text-left space-y-6 px-2 sm:px-4"
+          className="font-heading text-base sm:text-lg md:text-xl text-black leading-relaxed sm:leading-loose text-left space-y-6 px-6 sm:px-8 py-6 sm:py-8 bg-white/60 backdrop-blur-sm rounded-2xl border border-white/10"
         >
           <p>
             Te amo, con tus virtudes y defectos, con ese cariño tan propio de nosotros y que no cambiaría por nada del mundo, que me hacen querer verte y abrazarte aunque fuesen solo 5 segundos
