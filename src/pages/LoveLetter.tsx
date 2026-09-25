@@ -39,19 +39,40 @@ const LoveLetter = () => {
           className="font-heading text-base sm:text-lg md:text-xl text-black leading-relaxed sm:leading-loose text-left space-y-6 px-6 sm:px-8 py-6 sm:py-8 bg-white/60 backdrop-blur-sm rounded-2xl border border-white/10"
         >
           <p>
-            Te amo, con tus virtudes y defectos, con ese cariño tan propio de nosotros y que no cambiaría por nada del mundo, que me hacen querer verte y abrazarte aunque fuesen solo 5 segundos
+            Te amo, con tus virtudes y defectos, con ese cariño tan propio de
+            nosotros y que no cambiaría por nada del mundo, que me hacen querer
+            verte y abrazarte aunque fuesen solo 5 segundos
           </p>
           <p>
-            Amo tus besos, tus abrazos, tus golpecitos, tu risa y tu cabello. Amo tambien que me ames, amo compartir mi tiempo contigo y te amo aunque no esté contigo. Por que amo cada caracteristica tuya, desde tus virtudes hasta tus defectos, que te hacer ser tan tu, y al mismo tiempo me hacen sentirte tan mía. Y no lo malentiendas, ni mucho menos, que te quiero tanto que que amaría incluso aunque no lo fueses.
+            Amo tus besos, tus abrazos, tus golpecitos, tu risa y tu cabello.
+            Amo tambien que me ames, amo compartir mi tiempo contigo y te amo
+            aunque no esté contigo. Por que amo cada caracteristica tuya, desde
+            tus virtudes hasta tus defectos, que te hacer ser tan tu, y al mismo
+            tiempo me hacen sentirte tan mía. Y no lo malentiendas, ni mucho
+            menos, que te quiero tanto que que amaría incluso aunque no lo
+            fueses.
           </p>
           <p>
-            Y, sinceramente, tal vez no seas perfecta- para otros - y tambien, sinceramente, ellos no saben nada. Por que para mi, tu, tan tu, eres perfecta. Y no por que seas un conjunto infinito de virtudes, y que podrías serlo, sino por que amo hasta cada átomo de tu ser  que, mientras seas tu misma, me harían protegerte y cuidarte hasta el final de tus días. Y sinceramente, me gusta saber que puedo apoyarte y abrazarte en tus momentos más humanos y complicados.
+            Y, sinceramente, tal vez no seas perfecta- para otros - y tambien,
+            sinceramente, ellos no saben nada. Por que para mi, tu, tan tu, eres
+            perfecta. Y no por que seas un conjunto infinito de virtudes, y que
+            podrías serlo, sino por que amo hasta cada átomo de tu ser que,
+            mientras seas tu misma, me harían protegerte y cuidarte hasta el
+            final de tus días. Y sinceramente, me gusta saber que puedo apoyarte
+            y abrazarte en tus momentos más humanos y complicados.
           </p>
           <p>
-            Quiero que sepas que siempre podrás contar conmigo, desde el 1 hasta el infinito si quisieras. Pero siempre, siempre, podrás contar conmigo
+            Quiero que sepas que siempre podrás contar conmigo, desde el 1 hasta
+            el infinito si quisieras. Pero siempre, siempre, podrás contar
+            conmigo
           </p>
           <p className="text-primary font-bold italic text-center text-lg sm:text-xl md:text-2xl pt-4">
-            Te amo, I love you, Eu Gosto de Voce, Je'te aime, y en todos los idiomas descubiertos y por descubrir
+            Te amo, I love you, Eu Gosto de Voce, Je'te aime, y en todos los
+            idiomas descubiertos y por descubrir
+          </p>
+          <p className="text-primary font-bold italic text-center text-lg sm:text-xl md:text-2xl pt-4">
+            Te amo, I love you, Eu Gosto de Voce, Je'te aime, y en todos los
+            idiomas descubiertos y por descubrir
           </p>
         </motion.div>
 
