@@ -70,35 +70,7 @@ const LoveLetter = () => {
             Te amo, I love you, Eu Gosto de Voce, Je'te aime, y en todos los
             idiomas descubiertos y por descubrir
           </p>
-          <p>
-            Y, se acabó. Así de simple, se acabó. Tengo tantas cosas por las que
-            disculparme, pero sinceramente, tantas cosas por preguntar. En
-            serio, en serio Mariela? En serio preferías vivir esa vida horrible
-            y de la que me contaste horrores, con tu ex? Por que de ser así, me
-            duele. No lo niego, sabes? Tambien me decepciona. Es doloroso para
-            mi pensar que no fui suficiente para que olvidaras ese recuerdo. Y
-            si, tal vez eso no es mi culpa. Y sabes que es lo peor? Que no dejo
-            de amarte, maldita sea. Reviso a diario tu perfil(privado, por
-            cierto) Y me contento con ver tus 6 seguidos y 51 seguidores.
-            Preguntandome quienes fueron, o quienes serán. Si algun rastro de mi
-            amor queda en ti. Si algún día me perdonarás el haber sido el
-            detonante de nuestro final. Y si, en algun momento, notarás el
-            inmenso amor que sentí por ti. No tengo mas que decir. Ya no te amo,
-            es cierto. Ya no te quiero, tambien lo es. Me decepciona no haber
-            sido suficiente para ti, la verdad. Me decepciona que aun pienses en
-            tu ex. Pero sinceramente, cuanto te Amo. Cuanto te quiero. Cuanto
-            daría por volver a febrero sabes? Al paseo al parque de las aguas.
-            Por que no me arrepiento de nada. Y espero que tu tampoco. No se ni
-            como me siento ahora mismo. Es muy confuso para mi asimilar tu
-            verdadero ser. Y sabes? En algun momento quisiera saber si de verdad
-            me lograste amar a pesar de todos tus recuerdos, miedos y tu maldita
-            forma de querer una vida horrible junto a el. Y a pesar de todo, te
-            entiendo. Por que alguna vez fui tu, alguna vez estuve en tu
-            posición. Y eso es de las cosas que mas molestan. Por ultimo Te Amo.
-            Ya no te Amo. Te quiero. Ya no te quiero. Te extraño. Ya no te
-            extraño. Y sinceramente, no se... Te estoy amando, ahora más que
-            nunca. Y te estoy odiando, ahora más que nunca.
-          </p>
+          <p>Ahora, simplemente te amo</p>
         </motion.div>
 
         {/* Decorative hearts */}
